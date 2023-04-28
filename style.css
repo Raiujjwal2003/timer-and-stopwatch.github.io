@@ -19,6 +19,7 @@ html , body{
   justify-content: space-around;
   align-items: center;
   background: linear-gradient( to  left, rgb(255, 255, 255),  rgb(126, 189, 248));  
+  overflow-y:auto;
 }
 
 
